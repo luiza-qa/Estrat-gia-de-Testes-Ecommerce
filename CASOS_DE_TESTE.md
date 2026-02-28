@@ -1,7 +1,7 @@
 # 🧪 Casos de Teste: Fluxo de Compra e Checkout
 **QA Responsável:** Luíza Silva
 
-## CT-001: Validar adição de produto ao carrinho com sucesso
+## CT-001: Validar adição de produto ao carrinho com sucesso.
 **Objetivo:** Garantir que um usuário logado consiga adicionar um item ao carrinho.
 - **Pré-condição:** Usuário deve estar logado na plataforma.
 - **Passos:**
@@ -10,7 +10,7 @@
   3. Clicar no botão "Adicionar ao Carrinho".
 - **Resultado Esperado:** O sistema deve exibir a mensagem "Produto adicionado com sucesso" e o ícone do carrinho deve atualizar para "1 item".
 
-## CT-002: Validar cálculo de frete no carrinho
+## CT-002: Validar cálculo de frete no carrinho.
 **Objetivo:** Verificar se o sistema integra corretamente com a API de logística.
 - **Passos:**
   1. Acessar a tela do carrinho.
